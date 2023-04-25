@@ -20,3 +20,5 @@ public:
   virtual void przeksztalc( Bitmapa& ) = 0;
   virtual ~Przeksztalcenie() {}
 };
+
+#endif
